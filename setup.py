@@ -44,7 +44,8 @@ setuptools.setup(
         'cherrypy',
         'requests',
         'ipaddress',
-        'typing-extensions'
+        'typing-extensions',
+        'inflect==5.6.2'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
